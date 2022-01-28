@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zahedresume/static/css/main.6c03e277.css",
+    "main.js": "/zahedresume/static/js/main.ec2bea09.js",
+    "static/media/demo1.png": "/zahedresume/static/media/demo1.d931461ebd1001f6205b.png",
+    "static/media/demo4.png": "/zahedresume/static/media/demo4.e86b3ac9ff62f8b2bc95.png",
+    "static/media/bootstrap.png": "/zahedresume/static/media/bootstrap.21c4b8805fff51b47615.png",
+    "static/media/jquery.png": "/zahedresume/static/media/jquery.66108f53b218c72ed50a.png",
+    "static/media/expressjs.png": "/zahedresume/static/media/expressjs.1774a44a9621d0bc18db.png",
+    "static/media/css.png": "/zahedresume/static/media/css.9407ad358cdb22b8b1f0.png",
+    "static/media/mongodb.png": "/zahedresume/static/media/mongodb.a354fd44ba22e7ceb5a2.png",
+    "static/media/demo2.png": "/zahedresume/static/media/demo2.9026d82b9d85f1cd2815.png",
+    "static/media/demo3.png": "/zahedresume/static/media/demo3.d327722be8bf35634f82.png",
+    "static/media/pic2.jpg": "/zahedresume/static/media/pic2.ca6c57b0d7b560075929.jpg",
+    "index.html": "/zahedresume/index.html",
+    "main.6c03e277.css.map": "/zahedresume/static/css/main.6c03e277.css.map",
+    "main.ec2bea09.js.map": "/zahedresume/static/js/main.ec2bea09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c03e277.css",
+    "static/js/main.ec2bea09.js"
+  ]
+}
